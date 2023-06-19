@@ -1,5 +1,6 @@
 /* Global styles */
 body {
+  box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -7,6 +8,10 @@ body {
   padding: 0;
   color: #fff;
   background-color: #111;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
 }
 
 a {
@@ -35,40 +40,10 @@ button:hover {
   background-color: #005fbf;
 }
 
-/* Header */
-header {
-  background-color: #111;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 1;
-}
-
-nav ul {
-  display: flex;
-  justify-content: space-between;
-  margin: 0 auto;
-  max-width: 1200px;
-  padding: 10px;
-}
-
-nav ul li {
-  margin-right: 20px;
-}
-
-nav ul li:last-child {
-  margin-right: 0;
-}
-
-nav ul li a {
-  font-size: 18px;
-}
-
 /* Hero section */
 .hero {
   align-items: center;
-  background-image: url('https://via.placeholder.com/1600x900.png?text=Hero+Image');
+  background-image: url('https://e0.pxfuel.com/wallpapers/70/519/desktop-wallpaper-mount-fuji-japan-winter-mountains-chureito-pagoda-fujiyoshida-for-with-resolution-high-quality.jpg');
   background-size: cover;
   color: #fff;
   display: flex;
@@ -156,24 +131,4 @@ nav ul li a {
   background-color: rgba(0,0,0,0.8);
   bottom: 0;
   color: #fff;
-}
-
-input[type="text"],
-input[type="email"],
-input[type="message"] {
-  background-color: #fff;
-  border: none;
-  border-radius: 5px;
-  color: #333;
-  font-size: 16px;
-  padding: 10px;
-  width: 100%;
-  margin-bottom: 20px;
-}
-
-input[type="text"]:focus,
-input[type="email"]:focus,
-input[type="message"]:focus {
-  outline: none;
-  box-shadow: 0 0 3px 3px rgba(31, 110, 235, 0.3);
 }

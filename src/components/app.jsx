@@ -1,18 +1,11 @@
-import './App.css';
+import './app.css';
+import Header from './header/header';
+import Footer from './footer/footer'
 
-function App() {
+export default function App() {
   return (
     <div>
-      <header>
-        <nav>
-          <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Portfolio</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </nav>
-      </header>
+      <Header />
       <main>
         <section className="hero">
           <div className="hero-content">
@@ -49,25 +42,8 @@ function App() {
             </li>
           </ul>
         </section>
-        <section className="contact">
-          <h2>Contact me</h2>
-          <form>
-            <label>Name</label>
-            <input type="text" />
-            <label>Email</label>
-            <input type="email" />
-            <label>Message</label>
-            <input type="message" />
-            <button>Send message</button>
-          </form>
-        </section>
       </main>
-      <footer>
-        <p>&copy; 2023 My Name</p>
-      </footer>
+      <Footer />
     </div>
   );
 }
-
-export default App;
-
