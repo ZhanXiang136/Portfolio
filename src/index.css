@@ -7,7 +7,7 @@ body {
   margin: 0;
   padding: 0;
   color: #fff;
-  background-color: #111;
+  background-color: #000;
 }
 
 *, *:before, *:after {
@@ -43,7 +43,7 @@ button:hover {
 /* Hero section */
 .hero {
   align-items: center;
-  background-image: url('https://e0.pxfuel.com/wallpapers/70/519/desktop-wallpaper-mount-fuji-japan-winter-mountains-chureito-pagoda-fujiyoshida-for-with-resolution-high-quality.jpg');
+  background-image: url("./assets/cyberpunk-bg.jpg");
   background-size: cover;
   color: #fff;
   display: flex;
