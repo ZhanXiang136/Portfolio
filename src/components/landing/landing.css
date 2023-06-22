@@ -1,0 +1,38 @@
+.hero {
+    background-image: url("../../assets/cyberpunk-bg.jpg");
+    background-size: cover;
+    background-position: center center; 
+    display: flex;
+    height: calc(100vh - 50px);
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+
+.hero-content {
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 100px;
+    color: #000;
+    margin: 0px;
+    text-shadow: 
+            -4px 4px #ef3550,
+            -8px 8px #f48fb1,
+            -12px 12px #7e57c2,
+            -16px 16px #2196f3,
+            -20px 20px #26c6da,
+            -24px 24px #43a047,
+            -28px 28px #eeff41,
+            -32px 32px #f9a825,
+            -36px 36px #ff5722;
+}
+
+.hero p {
+    font-size: 32px;
+    margin-bottom: 30px;
+    color: white;
+}
+
