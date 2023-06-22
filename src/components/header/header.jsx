@@ -5,10 +5,10 @@ export default function Header() {
         <header>
             <nav>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="#landing">Home</a></li>
+                    <li><a href="#about-me">About</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#footer">Contact</a></li>
                 </ul>
             </nav>
         </header>

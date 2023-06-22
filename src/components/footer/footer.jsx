@@ -2,7 +2,7 @@ import './footer.css';
 
 export default function Footer() {
     return (
-        <footer>
+        <footer id="footer">
             <section className="card">
                 <h2>Contact me</h2>
                 <form>
