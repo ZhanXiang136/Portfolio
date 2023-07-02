@@ -1,7 +1,7 @@
 import './app.css';
 import Header from './header/header';
 import Landing from './landing/landing'
-import About from './about/about'
+import Timeline from './timeline/timeline'
 import Portfolio from './portfolio/portfolio';
 import Footer from './footer/footer'
 
@@ -11,7 +11,7 @@ export default function App() {
       <Header />
       <main>
         <Landing />
-        <About />
+        <Timeline />
         <Portfolio />
       </main>
       <Footer />

@@ -5,8 +5,8 @@ export default function Landing() {
         <section className='landing' id='landing'>
             <section className="hero">
                 <div className="hero-content">
-                    <h1>Welcome to my personal website!</h1>
-                    <p>Here you'll find information about me, my work, and how to get in touch.</p>
+                    <h1>Welcome, the name's Zhan Xiang Zheng</h1>
+                    <p>Just your average College Student interested in AI/ML development</p>
                 </div>
             </section>
         </section>

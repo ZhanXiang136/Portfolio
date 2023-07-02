@@ -2,7 +2,7 @@ import './timeline.css'
 
 export default function Timeline() {
     return (
-        <section className='timeline'>
+        <section className='timeline' id='timeline'>
             <div className='timeline-year'>
                 2016 - 2019<span>Middle School</span>
             </div>
@@ -62,16 +62,6 @@ export default function Timeline() {
                             <div className="box-item"><strong>Date</strong>: Sophomore Year</div>
                             <div className="box-item"><strong>Learn</strong>: Intro to Computer Science + Python</div>
                             <div className="box-item"><strong>Projects</strong>: APCSP Create Task - Terminal Base Mathematical Quiz Game</div>
-                        </div>
-                    </div>
-                    <div className="timeline-box">
-                        <div className="box-header">
-                            Start Robotics with Lego Robotics
-                        </div>
-                        <div className="box-content">
-                            Details
-                            <div className="box-item"><strong>Project Manager</strong>: Marlyn</div>
-                            <div className="box-item"><strong>Supervisor</strong>: Carol</div>
                         </div>
                     </div>
                 </div>
