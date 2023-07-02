@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.763b0647.css",
-    "main.js": "/Personal-Website/static/js/main.2a42ce57.js",
-    "static/js/787.5809834d.chunk.js": "/Personal-Website/static/js/787.5809834d.chunk.js",
-    "static/media/cyberpunk-bg.jpg": "/Personal-Website/static/media/cyberpunk-bg.6234a26baf0f1ff75a94.jpg",
-    "static/media/pokemon-battle.png": "/Personal-Website/static/media/pokemon-battle.2e0af4c9a56431c5ea60.png",
-    "static/media/code-overflow-maze.png": "/Personal-Website/static/media/code-overflow-maze.15dc89de04d49f651191.png",
-    "static/media/pokemon-main.png": "/Personal-Website/static/media/pokemon-main.b39d7a1b6ae8ef0a5520.png",
-    "index.html": "/Personal-Website/index.html",
-    "main.763b0647.css.map": "/Personal-Website/static/css/main.763b0647.css.map",
-    "main.2a42ce57.js.map": "/Personal-Website/static/js/main.2a42ce57.js.map",
-    "787.5809834d.chunk.js.map": "/Personal-Website/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.f9d0afd1.css",
+    "main.js": "/Portfolio/static/js/main.7b437964.js",
+    "static/js/787.b98c23e5.chunk.js": "/Portfolio/static/js/787.b98c23e5.chunk.js",
+    "static/media/cyberpunk-bg.jpg": "/Portfolio/static/media/cyberpunk-bg.6234a26baf0f1ff75a94.jpg",
+    "static/media/pokemon-battle.png": "/Portfolio/static/media/pokemon-battle.2e0af4c9a56431c5ea60.png",
+    "static/media/code-overflow-maze.png": "/Portfolio/static/media/code-overflow-maze.15dc89de04d49f651191.png",
+    "static/media/pokemon-main.png": "/Portfolio/static/media/pokemon-main.b39d7a1b6ae8ef0a5520.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f9d0afd1.css.map": "/Portfolio/static/css/main.f9d0afd1.css.map",
+    "main.7b437964.js.map": "/Portfolio/static/js/main.7b437964.js.map",
+    "787.b98c23e5.chunk.js.map": "/Portfolio/static/js/787.b98c23e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.763b0647.css",
-    "static/js/main.2a42ce57.js"
+    "static/css/main.f9d0afd1.css",
+    "static/js/main.7b437964.js"
   ]
 }
