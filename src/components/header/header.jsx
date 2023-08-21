@@ -8,7 +8,7 @@ export default function Header() {
                     <li><a href="#top">Home</a></li>
                     <li><a href="#skills">Skills</a></li>
                     <li><a href="#timeline">Timeline</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#projects">Portfolio</a></li>
                     <li><a href="#footer">Contact</a></li>
                 </ul>
             </nav>

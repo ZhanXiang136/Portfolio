@@ -2,7 +2,7 @@ import './app.css';
 import Header from './header/header';
 import Landing from './landing/landing'
 import Timeline from './timeline/timeline'
-import Portfolio from './portfolio/portfolio';
+import Projects from './projects/projects';
 import Footer from './footer/footer'
 
 export default function App() {
@@ -12,7 +12,7 @@ export default function App() {
       <main>
         <Landing />
         <Timeline />
-        <Portfolio />
+        <Projects />
       </main>
       <Footer />
     </div>
