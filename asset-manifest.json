@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f9d0afd1.css",
-    "main.js": "/Portfolio/static/js/main.7b437964.js",
+    "main.css": "/Portfolio/static/css/main.89481625.css",
+    "main.js": "/Portfolio/static/js/main.0c9fdbd6.js",
     "static/js/787.b98c23e5.chunk.js": "/Portfolio/static/js/787.b98c23e5.chunk.js",
+    "static/media/code-overflow-maze-sample.gif": "/Portfolio/static/media/code-overflow-maze-sample.edc019407e7150cd4cd7.gif",
+    "static/media/pokemon-battle-sample.gif": "/Portfolio/static/media/pokemon-battle-sample.5d27249a6869ed6bb7f6.gif",
     "static/media/cyberpunk-bg.jpg": "/Portfolio/static/media/cyberpunk-bg.6234a26baf0f1ff75a94.jpg",
-    "static/media/pokemon-battle.png": "/Portfolio/static/media/pokemon-battle.2e0af4c9a56431c5ea60.png",
-    "static/media/code-overflow-maze.png": "/Portfolio/static/media/code-overflow-maze.15dc89de04d49f651191.png",
+    "static/media/code-overflow-maze.png": "/Portfolio/static/media/code-overflow-maze.4dfa7bdec8195dc5df63.png",
     "static/media/pokemon-main.png": "/Portfolio/static/media/pokemon-main.b39d7a1b6ae8ef0a5520.png",
     "index.html": "/Portfolio/index.html",
-    "main.f9d0afd1.css.map": "/Portfolio/static/css/main.f9d0afd1.css.map",
-    "main.7b437964.js.map": "/Portfolio/static/js/main.7b437964.js.map",
+    "main.89481625.css.map": "/Portfolio/static/css/main.89481625.css.map",
+    "main.0c9fdbd6.js.map": "/Portfolio/static/js/main.0c9fdbd6.js.map",
     "787.b98c23e5.chunk.js.map": "/Portfolio/static/js/787.b98c23e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9d0afd1.css",
-    "static/js/main.7b437964.js"
+    "static/css/main.89481625.css",
+    "static/js/main.0c9fdbd6.js"
   ]
 }
